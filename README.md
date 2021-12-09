@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danjshannon
 - 👀 I’m interested in full-stack web development, decentralized web technologies, and cybersecurity.
-- 🌱 I'm currently learning cybersecurity and blockchain. I am earning a Masters of Science in Cybersecurity from Syracuse University (College of Engineering and Computer Science).
+- 🌱 I'm currently learning cybersecurity and blockchain. I am earning a Masters in Cybersecurity from Syracuse University (College of Engineering and Computer Science).
 - 💞️ I’m looking to collaborate on decentralized web technologies.
 - 📫 How to reach me ... dan.j.shannon@gmail.com
 
