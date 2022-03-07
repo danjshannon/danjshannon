@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @danjshannon
-- 🧾 Check out my newsletter! https://djshannon.substack.com/ 
-- 👀 I’m interested in full-stack web development, decentralized web technologies, and cybersecurity.
-- 🌱 I'm currently learning cybersecurity and blockchain. I am earning a Masters in Cybersecurity from Syracuse University (College of Engineering and Computer Science).
-- 💞️ I’m looking to collaborate on decentralized web technologies.
-- 📫 How to reach me ... dan.j.shannon@gmail.com
+- 👋 Hi, I’m Dan Shannon.
+- 👀  I'm currently working in Prism on the Forecasting Squad.
+- If you're here from outside the Enverus organization, please check out my personal github account [radioxeth](https://github.com/radioxeth)
 
 <!---
 danjshannon/danjshannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
