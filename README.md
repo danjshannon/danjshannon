@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan Shannon.
-- 👀  I'm currently working in Prism on the Forecasting Squad.
+- 👀  I'm currently working on frontend Prism development as a memeber of the Forecasting Squad.
 - If you're here from outside the Enverus organization, please check out my personal github account [radioxeth](https://github.com/radioxeth)
 
 <!---
